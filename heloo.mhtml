@@ -1,0 +1,60 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///D:/nhq44/Desktop/New%20Text%20Document.html
+Subject: heloo
+Date: Wed, 15 May 2024 03:36:17 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--XILNoFpCFr2piaTtHKCMGr7U1holQqWaQfsDS0zYI0----"
+
+
+------MultipartBoundary--XILNoFpCFr2piaTtHKCMGr7U1holQqWaQfsDS0zYI0----
+Content-Type: text/html
+Content-ID: <frame-CD187EE70F3E58FDD40D964CCB0871BB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///D:/nhq44/Desktop/New%20Text%20Document.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-510d17f3-cfad-4040-82a4-d8986c8f1a86@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>heloo</title>
+   =20
+</head>
+<body>
+    <div class=3D"container">
+        <div class=3D"heart">=F0=9F=92=95</div>
+        <div class=3D"name">Qu=C3=A2n</div>
+        <div class=3D"info">Tu=E1=BB=95i: 19</div>
+        <div class=3D"info">Th=C3=ADch nn</div>
+        <div class=3D"contact">Li=C3=AAn h=E1=BB=87: <a href=3D"mailto:nhq4=
+41@gmail.com">nhq441@gmail.com</a></div>
+    </div>
+
+</body></html>
+------MultipartBoundary--XILNoFpCFr2piaTtHKCMGr7U1holQqWaQfsDS0zYI0----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-510d17f3-cfad-4040-82a4-d8986c8f1a86@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; display: =
+flex; flex-direction: column; align-items: center; justify-content: center;=
+ height: 100vh; background-color: rgb(240, 240, 240); }
+
+.container { text-align: center; background: rgb(255, 255, 255); padding: 2=
+0px; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; }
+
+.heart { color: red; font-size: 100px; margin-bottom: 20px; }
+
+.name { font-size: 24px; font-weight: bold; margin-bottom: 10px; }
+
+.info { font-size: 18px; margin-bottom: 20px; }
+
+.contact { font-size: 16px; color: rgb(85, 85, 85); }
+
+.contact a { color: rgb(0, 123, 255); text-decoration: none; }
+------MultipartBoundary--XILNoFpCFr2piaTtHKCMGr7U1holQqWaQfsDS0zYI0------
