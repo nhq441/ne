@@ -14,6 +14,16 @@
             align-items: center;
             height: 185vh;
         }
+        .button {
+            text-decoration: none;
+            display: block;
+            background-color: aqua;
+            padding: 16px 24px;
+            border-radius: 24px;
+        }
+        .button:hover {
+            background-color: aquamarine;
+        }
 
         .heart {
             position: absolute;
@@ -45,18 +55,19 @@
         }
 
         @keyframes float {
-            0% {
+            /* 0% {
                 transform: rotate(-45deg) translateY(0) scale(1);
                 opacity: 1;
-            }
+            } */
             100% {
-                transform: rotate(-45deg) translateY(-1000px) scale(0);
+                transform: rotate(0deg) translateY(-1000px) scale(1);
                 opacity: 0;
             }
         }
     </style>
 </head>
 <body>
+    <a class = "button" href="https://github.com/nhq441/ne/blob/main/index.html">CODE</a>
     <script>
         function createHeart() {
             const heart = document.createElement('div');
@@ -70,7 +81,7 @@
             }, 5000);
         }
 
-        setInterval(createHeart, 300);
+        setInterval(createHeart, 500);
     </script>
 </body>
 </html>
